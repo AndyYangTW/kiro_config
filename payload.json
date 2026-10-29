@@ -1,12 +1,20 @@
 {
-  "enabled": false,
+  "enabled": true,
   "platform": "android",
   "package": "com.junqing.kiro",
   "version_name": "1.0.0",
   "version_code": 4,
-  "expires_at": 0,
+  "expires_at": 1801058668,
   "versions": {
-    "android": {"minimum_version": "0.0.0", "latest_version": "0.0.0", "force_update": false},
-    "ios": {"minimum_version": "0.0.0", "latest_version": "0.0.0", "force_update": false}
+    "android": {
+      "minimum_version": "0.0.0",
+      "latest_version": "0.0.0",
+      "force_update": false
+    },
+    "ios": {
+      "minimum_version": "0.0.0",
+      "latest_version": "0.0.0",
+      "force_update": false
+    }
   }
 }
